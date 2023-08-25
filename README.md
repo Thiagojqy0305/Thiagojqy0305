@@ -8,19 +8,6 @@ My name is Thiago Afonso, I am a programmer Front and, for the moment I´m learn
 <br>
 <br>
 
-##
-
-<div>
-  <a heigth="180em" href="https://github.com/Thiagojqy0305/Thiagojqy0305/tree/main" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Thiagojqy0305&show_icons=true&theme=dracula&iclude_all_commits=true&cont_private=true" />
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagojqy0305&layout=compact&langs_count=16&theme=dracula" />
-</div
-<br>
-
-##
-
-
-
 I´m now learning with:
 <br>
 <br>
